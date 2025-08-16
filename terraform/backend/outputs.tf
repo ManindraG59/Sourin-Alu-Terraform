@@ -7,5 +7,5 @@ output "location" {
 }
 
 output "state_key" {
-  value = "aks/terraform.tfstate"
+  value = "terraform.tfstate"
 }
