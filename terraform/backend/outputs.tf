@@ -9,3 +9,4 @@ output "location" {
 output "state_key" {
   value = "terraform.tfstate"
 }
+
